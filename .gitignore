@@ -1,17 +1,17 @@
 # Ignorar la carpeta de activos/assets
-/assets/
+#/assets/
 
 # Ignorar todos los archivos CSS dentro de la carpeta de activos/assets
-/assets/**/*.css
+#/assets/**/*.css
 
 # Ignorar todos los archivos JS dentro de la carpeta de activos/assets
-/assets/**/*.js
+#/assets/**/*.js
 
 # Ignorar todos los archivos SVG dentro de la carpeta de activos/assets
-/assets/**/*.svg
+#/assets/**/*.svg
 
 # Ignorar todos los archivos JSON dentro de la carpeta de activos/assets
-/assets/**/*.json
+#/assets/**/*.json
 
 # Changelog
 changelog.txt
